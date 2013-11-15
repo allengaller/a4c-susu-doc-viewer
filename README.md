@@ -1,4 +1,18 @@
-# Upon Docbase 上心文档库 #
+# SuSu - Dev Doc with Love #
 *aka the Coder Doc project*
 
-A handy doc apps for coders.
+About
+-----
+SuSu is a handy development doc apps for coders.
+
+Features
+--------
+
+
+Guide
+-----
+
+
+Donation
+--------
+
