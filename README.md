@@ -1,5 +1,4 @@
-# Susu - Handy Doc Apps for Programmers #
-*__Dev Doc with Love__*   
+# Susu - Handy Doc Apps for Programmers #   
 *aka the Coder Doc project*
 
 About
